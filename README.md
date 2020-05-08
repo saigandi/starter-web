@@ -14,5 +14,8 @@ Sample website with plenty of files for demos
 ## GIT comparison
 Adding Git comparisons content
 
+## contribution
+Fork the Repo & raise pull request for review
+
 ## GITHub COntent
 Comparision with Repo
