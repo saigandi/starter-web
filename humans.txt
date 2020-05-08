@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Sai Pradeep <twitter>
 
 # THANKS
 
