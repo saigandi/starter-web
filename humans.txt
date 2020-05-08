@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Sai Pradeep <twitter>
+    Sai Pradeep
+	gandi.sai18@gmail.com
+	SAG
 
 # THANKS
 
