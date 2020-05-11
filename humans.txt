@@ -5,13 +5,14 @@
 
     Sai Pradeep
 	gandi.sai18@gmail.com
-	SAG
+	SA
 
 # THANKS
 
-    <name>
+    Sai Pradeep
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+	Docker, Java Programming
