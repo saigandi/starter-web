@@ -10,7 +10,7 @@ A lot of letcture are already submitted
 This is the best tutorial
 
 Sample website with plenty of files for demos
-Adding GIT Rebase lecture in GIThub
+Adding GIT Rebase lecture in GIThub part1. We have done lot of work together
 
 ## GIT comparison
 Adding Git comparisons content
