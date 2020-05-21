@@ -19,4 +19,5 @@ Adding Git comparisons content
 Fork the Repo & raise pull request for review
 
 ## GITHub COntent
-Comparision with Repo
+Comparision with Repo.
+Adding new lectures of stash.
