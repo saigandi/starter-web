@@ -22,3 +22,4 @@ Adding some imortant notes for stash.
     HTML5, CSS3, Angular
     jQuery, Modernizr
 	Machine Learning, AWSm Google Cloud
+	AWS solution architect Developer
