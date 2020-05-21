@@ -2,6 +2,9 @@
 # The humans responsible & technology colophon
 
 Hi, I am modifyig the file before rebase
+Doing some changes in local.
+
+Adding some imortant notes for stash.
 
 # TEAM
 

@@ -21,3 +21,5 @@ Fork the Repo & raise pull request for review
 ## GITHub COntent
 Comparision with Repo.
 Adding new lectures of stash.
+
+Adding git ignored files to git stash
